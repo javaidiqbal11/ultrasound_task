@@ -2,7 +2,7 @@
 
 This repository contains materials and code related to ultrasound signal processing, specifically focusing on beamforming techniques. The content is designed to assist in understanding and implementing beamforming algorithms for ultrasound data.
 
-## Contents
+## Main Contents
 
 - **Programming Assignment.pdf**: A detailed programming assignment outlining tasks related to ultrasound beamforming.
 - **PA_starter.m**: A MATLAB starter script provided for the programming assignment.
