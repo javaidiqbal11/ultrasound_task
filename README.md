@@ -21,7 +21,7 @@ To get started with the provided materials, follow the steps below:
 
 Ensure you have the following installed:
 
-- **Python 3.x**: The scripts are written in Python and require Python 3.x to run.
+- **Python 3.12**: The scripts are written in Python and require Python 3.x to run.
 - **MATLAB**: If you prefer using MATLAB, the `PA_starter.m` script is available.
 
 ### Python Dependencies
