@@ -76,7 +76,7 @@ For additional information on ultrasound beamforming and signal processing, cons
 
 - [Ultrasound Imaging - Wikipedia](https://en.wikipedia.org/wiki/Ultrasound_imaging)
 - [Beamforming - Wikipedia](https://en.wikipedia.org/wiki/Beamforming)
-- [Ultrasound Beamforming Techniques - IEEE Xplore](https://ieeexplore.ieee.org/document/XXXXXXX) *(Replace with actual DOI or link)*
+- [Ultrasound Beamforming Techniques - IEEE Xplore](https://ieeexplore.ieee.org/document/9251565/) 
 
 These resources provide foundational knowledge that will be beneficial in understanding and implementing the algorithms in this repository.
 
